@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+int main()
 {
     char marka[30];
     printf ("Podaj marke telefonu:\n");
