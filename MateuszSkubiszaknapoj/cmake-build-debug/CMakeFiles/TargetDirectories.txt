@@ -1,0 +1,3 @@
+/home/scooby/CLionProjects/Mateusz Skubiszak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/scooby/CLionProjects/Mateusz Skubiszak/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scooby/CLionProjects/Mateusz Skubiszak/cmake-build-debug/CMakeFiles/untitled2.dir
