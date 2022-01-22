@@ -30,5 +30,5 @@ int main()
     printf("Twoje hobby to: %s \n", hobby);
     printf ("Twoja marka telefonu to: %s\n", marka);
     printf("Twoje imie to %s a nazwisko %s \n", imie, nazwisko);
-    return 0;
+
 }
