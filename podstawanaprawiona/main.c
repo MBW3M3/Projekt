@@ -16,7 +16,7 @@ int main()
     scanf("%s", &nazwisko);
     printf ("Podaj marke telefonu:\n");
     scanf("%s", &marka);
-    printf("Podaj swoje hobby: \n");
+    //printf("Podaj swoje hobby: \n");
     scanf("%s", &hobby);
     printf("Jaki jest twoj ulubiony napoj wpisz gazowany czy niegazowany\n");
     scanf("%s",ngg);
