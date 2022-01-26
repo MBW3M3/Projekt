@@ -13,5 +13,7 @@ scanf("%s", ulub);
 printf("Wolisz napoj: %s", ngg);
 Printf("Wolisz napoj: %s", sg);
 printf("A twoj ulubiony napoj to: %s", ulub);
+printf("Dodaje na potrzeby commita");
+printf("Dodaje na potrzeby commita2");
 return 0;
 }
