@@ -9,6 +9,8 @@ int main()
     print("Zmiany na potrzeby commita");
     printf("Test telefonu");
     printf("Test telefonu4");
+     printf("Test telefonu3");
+
        
     return 0;
 }
