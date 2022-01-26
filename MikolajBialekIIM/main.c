@@ -8,7 +8,9 @@ void iin(int b){
     printf("Podaj swoje nazwisko:\n");
     scanf("%s", &nazwisko);
     printf("Twoje imie to %s a nazwisko %s", imie, nazwisko);
-    return 0;
+    printf("Twoje imie to %s a nazwisko %s", imie, nazwisko);
+//    return 0;
+return 0;
 }
 int main() {
     int a;
