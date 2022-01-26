@@ -7,5 +7,6 @@ int main()
     scanf("%s", &marka);
     printf ("Twoja marka telefonu to: %s\n", marka);
     print("Zmiany na potrzeby commita");
+    printf("Test telefonu");
     return 0;
 }
