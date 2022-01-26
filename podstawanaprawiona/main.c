@@ -10,6 +10,7 @@ int main()
     char ngg[20]; //niegaz, gaz
     char sg[20]; //slodki, gorzki
     char ulub[30]; //ulubiony napoj
+    printf("Podaj swoje imie:\n");
     scanf("%s", &imie);
     printf("Podaj swoje nazwisko:\n");
     scanf("%s", &nazwisko);
