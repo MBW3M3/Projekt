@@ -10,6 +10,7 @@ int main()
     printf("Test telefonu");
     printf("Test telefonu4");
      printf("Test telefonu3");
+                 printf("Test telefonu2");
 
        
     return 0;
