@@ -8,10 +8,6 @@ int main()
     printf ("Twoja marka telefonu to: %s\n", marka);
     print("Zmiany na potrzeby commita");
     printf("Test telefonu");
-    printf("Test telefonu4");
-     printf("Test telefonu3");
-                 printf("Test telefonu2");
-
        
     return 0;
 }
